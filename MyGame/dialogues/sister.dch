@@ -1,0 +1,29 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"_translation_id": "",
+"color": Color(1, 1, 1, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "style"
+},
+"default_portrait": "Sister",
+"description": "Raj's younger sister",
+"display_name": "Naina (Sister)",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(-50, -50),
+"portraits": {
+"Sister": {
+"export_overrides": {
+"image": "\"res://assets/sprites/Characters/Sister/sister_portrait.png\""
+},
+"mirror": false,
+"offset": Vector2(-5, 0),
+"scale": 1,
+"scene": ""
+}
+},
+"scale": 0.8
+}
